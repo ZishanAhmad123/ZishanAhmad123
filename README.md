@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZishanAhmad123
+- 👋 Hi, I’m Zishan Ahmad
 - 👀 I’m interested in doing Coding
 - 🌱 I’m currently learning DP on digit
 - 💞️ I’m looking to collaborate on ...
