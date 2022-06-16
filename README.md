@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Zishan Ahmad
 - 👀 I’m interested in doing Coding
-- 🌱 I’m currently learning DP on digit
+- 🌱 I’m currently solving SDE sheet of Striver and Arsh Bhaiya
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by Linkedln https://www.linkedin.com/in/zishan-ahmad-8462a6214/
 
